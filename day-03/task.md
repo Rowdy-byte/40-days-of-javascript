@@ -7,7 +7,7 @@ Please complete the following tasks and post them on the tapaScript Discord unde
 ## 1. Odd or Even?
 
 - [x] Take a number and find if the number is an odd or even number.
-- [ ] Print the number and result in the console.
+- [x] Print the number and result in the console.
 
 ## 2. Do you have a Driving License?
 
